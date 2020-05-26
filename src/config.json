@@ -2,7 +2,7 @@
     "http": {
         "port": 8070
     },
-    "secret": "b213a890ac28739a0fc0e47f034308c1",
+    "secret": "[secret]",
     "mongoose": {
         "uri": "mongodb://localhost:27017",
         "database": "Miiverse",
