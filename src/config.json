@@ -1,0 +1,14 @@
+{
+    "http": {
+        "port": 8070
+    },
+    "secret": "b213a890ac28739a0fc0e47f034308c1",
+    "mongoose": {
+        "uri": "mongodb://localhost:27017",
+        "database": "Miiverse",
+        "options": {
+            "useNewUrlParser": true,
+            "useUnifiedTopology": true
+        }
+    }
+}
